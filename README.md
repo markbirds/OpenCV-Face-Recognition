@@ -1,7 +1,7 @@
 ### python register.py
 
 ```
-- register your face by using webcam. Need 20 images of your face.
+- register your face using webcam. Need 20 images of your face.
 ```
 
 ### python train.py
